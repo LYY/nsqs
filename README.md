@@ -1,0 +1,2 @@
+# nsqs
+nsq quick service
